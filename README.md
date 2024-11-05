@@ -3,7 +3,7 @@
 # Sales Data Analysis Report
 
 ## Project Overview
-This report provides an analysis of sales data with the following columns: OrderID, Customer ID, Product, Region, OrderDate, Quantity, UnitPrice, Revenue, Average Revenue, Total Product Sales.
+This report provides an analysis of sales data with the following columns: OrderID, Customer ID, Product, Region, OrderDate, Quantity, UnitPrice, Revenue, Average Revenue, Total Product Sales.The analysis covers the sales overview for both 2023 and 2024, regional breakdown, product performance based on the quantity sold, and revenue generated and sales gotten over time (monthly). 
 
 ## Data Summary
 The dataset consists of the following columns:
@@ -39,13 +39,28 @@ Data was imported into a data analysis tool (e.g., SQL, Power BI) from the Excel
    This involves exploring the the Data to answer some questions which are needful for effective analysis. Questions such as
 
 What is the total sales for each product category.
+
 What is the number of sales transactions in each region.
+
 Which is the highest-selling product by total sales value.
+
 calculate total revenue per product.
+
 calculate monthly sales totals for the current year.
+
 find the top 5 customers by total purchase amount.
+
 calculate the percentage of total sales contributed by each region.
+
 identify products with no sales in the last quarter.
+
+## Keg Findings
+Sales Trend: A pie chart and bar chart displaying total sales by product reveals the best-selling products. The top which is the Shoes generate the highest revenue, with the majority of purchases coming from Southern customers for the month of feburary 2024. The peak sales periods for the products occur in February and July 2023 while Jan and Feb 2024. The region with the lowest revenue was from the Eastern customers. 
+
+Customer performance: A bar chat showing the Customers with the highest total sales contributions is customer 1D 1064. This. Indicates customer loyalty and purchasing behavior.
+
+## Data visualization
+
    
 
    
