@@ -2,6 +2,13 @@
 
 # Sales Data Analysis Report
 
+[Project Overview](#Project-Overview)
+[Data Summary](#Data-Summary)
+[Data Analysis](#Data-Analysis)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+[Key Finding](#Key-Finding)
+[Data Visualization](#Data-viualization)
+
 ## Project Overview
 This report provides an analysis of sales data with the following columns: OrderID, Customer ID, Product, Region, OrderDate, Quantity, UnitPrice, Revenue, Average Revenue, Total Product Sales.The analysis covers the sales overview for both 2023 and 2024, regional breakdown, product performance based on the quantity sold, and revenue generated and sales gotten over time (monthly). 
 
@@ -59,7 +66,7 @@ Sales Trend: A pie chart and bar chart displaying total sales by product reveals
 
 Customer performance: A bar chat showing the Customers with the highest total sales contributions is customer 1D 1064. This. Indicates customer loyalty and purchasing behavior.
 
-## Data visualizatization
+## Data visualization
 
    ![alt text](http://url/to/img.png)
    
