@@ -3,10 +3,15 @@
 # Sales Data Analysis Report
 
 [Project Overview](#Project-Overview)
+
 [Data Summary](#Data-Summary)
+
 [Data Analysis](#Data-Analysis)
+
 [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
 [Key Finding](#Key-Finding)
+
 [Data Visualization](#Data-viualization)
 
 ## Project Overview
