@@ -73,6 +73,10 @@ Customer performance: A bar chat showing the Customers with the highest total sa
 
 ## Data visualization
 
-   ![alt text](http://url/to/img.png)
+![Screenshot (180)](https://github.com/user-attachments/assets/f2748096-c5af-45e2-ad6b-2d7fd004c471)
+
    
-   
+   ![Screenshot (179)](https://github.com/user-attachments/assets/2c28b664-1431-40cd-a401-f538dc4b854c)
+
+[LITA Capstone Dataset project E.xlsx](https://github.com/user-attachments/files/17637471/LITA.Capstone.Dataset.project.E.xlsx)
+
