@@ -59,9 +59,8 @@ Sales Trend: A pie chart and bar chart displaying total sales by product reveals
 
 Customer performance: A bar chat showing the Customers with the highest total sales contributions is customer 1D 1064. This. Indicates customer loyalty and purchasing behavior.
 
-## Data visualization
+## Data visualizatization
 
-   
-
+   ![alt text](http://url/to/img.png)
    
    
